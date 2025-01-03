@@ -73,7 +73,7 @@ A comprehensive collection of programming challenges to master different aspects
 
 2. **Find Max and Min Elements**
 
-    - [GeeksforGeeks Problem](https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/)
+    - [GeeksforGeeks Problem](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
     - Difficulty: Easy
 
 3. **Rotate Array**
