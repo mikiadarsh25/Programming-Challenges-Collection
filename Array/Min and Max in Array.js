@@ -35,6 +35,21 @@ var getMinMax = function (arr) {
     return [min, max];
 };
 
+function getMinMax(arr) {
+    // code here
+    let min = Infinity;
+    let max = -Infinity;
+    for (let i = 0; i < arr.length; i++) {
+        if (arr[i] > max) {
+            max = arr[i];
+        }
+        if (arr[i] < min) {
+            min = arr[i];
+        }
+    }
+    return [min, max];
+}
+
 const arr = [3, 2, 1, 56, 10000, 167];
 
 console.log(getMinMax(arr));
